@@ -96,7 +96,11 @@ const convertToRoman = () => {
   //add roman symbol to output as long as input is greater than or equal to value in array
   for (let i = 0; i < romanValues.length; i++) {
     while (num >= romanValues[i].value) {
+      
+      //subtract the corresponding value from the user input
       num -= romanValues[i].value;
+      
+      //update the output text to display any symbols necessary
       result.textContent += romanValues[i].symbol;
     }
   }
