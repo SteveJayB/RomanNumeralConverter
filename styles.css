@@ -1,0 +1,63 @@
+body {
+ background-color: #2C3E50;
+ margin-top: 300px;
+ min-width: 500px;
+}
+
+h1 {
+ color: white;
+ font-size: 40px;
+ text-align: center;
+}
+
+#enter {
+  color: white;
+  background-color: #808B96;
+  border: 3px solid white;
+  max-width: 500px;
+  margin: auto;
+}
+
+#number {
+  width: 480px;
+  font-size: 25px;
+  margin-left: 7px;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#convert-btn {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  background-color: #2C3E50;
+  
+}
+
+#convert-btn:hover{
+  color: #2C3E50;
+  background-color: #FCF3CF;
+}
+
+h2{
+  text-align: center;
+}
+
+#output {
+  color: #FCF3CF;
+  font-weight: bold;
+  background-color: #808B96;
+  border: 3px solid white;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 30px;
+  display: none;
+}
