@@ -1,1 +1,3 @@
-This program converts a user number input into a Roman Numeral by accepting a user input, validating it, and displaying and output of the corresponding roman numeral, or a message letting the user know that their input was not valid. Certification project number 2 for the JavaScript Algorithms and Data Structures certificate provided by freeCodeCamp.
+This program converts a user number input into a Roman Numeral by accepting a user input, validating it, and displaying and output of the corresponding roman numeral, or a message letting the user know that their input was not valid.
+
+Certification project number 2 for the JavaScript Algorithms and Data Structures certificate provided by freeCodeCamp.
